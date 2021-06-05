@@ -1,0 +1,15 @@
+@startuml
+'https://plantuml.com/salt
+
+class App{
+    askLength()
+    askWidth()
+    printDimensions()
+    convertDimensions()
+    calculateArea()
+    printArea()
+    []calculationSeperate
+    []constantHoldsConversion
+}
+
+@enduml
